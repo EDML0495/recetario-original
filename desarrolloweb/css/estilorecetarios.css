@@ -1,0 +1,11 @@
+body {
+        font-family: "Open sans", sans-serif;
+        margin: 4px 15px auto;
+    }
+
+nav{ margin: 5px auto; }
+
+footer{
+    text-align: center;
+    margin: 5px auto;
+}
